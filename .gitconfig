@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Anthony Guevara (scorpionix)
+	email = anthony.guev@gmail.com
+[push]
+	default = current
