@@ -10,3 +10,4 @@ set shiftwidth=4
 set smartindent
 set ruler
 colorscheme desert
+syntax enable
