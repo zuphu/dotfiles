@@ -9,6 +9,7 @@ set tabstop=4
 set shiftwidth=4
 set smartindent
 set ruler
+set wrap
 " find the colorscheme badwold
 set showcmd
 colorscheme desert
