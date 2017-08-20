@@ -12,6 +12,7 @@ set smartindent
 set ruler
 set wrap
 " find the colorscheme badwold
+filetype on
 set showcmd
 colorscheme desert
 syntax enable
