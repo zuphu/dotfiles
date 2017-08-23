@@ -11,6 +11,7 @@ set shiftwidth=4
 set smartindent
 set ruler
 set wrap
+set autoread "reload buffer if file changes
 " find the colorscheme badwold
 filetype on
 set showcmd
