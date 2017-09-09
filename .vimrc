@@ -12,6 +12,7 @@ set smartindent
 set ruler
 set wrap
 set wildmenu
+set showmatch     " set show matching parenthesis
 set autoread "reload buffer if file changes
 " find the colorscheme badwold
 filetype on
